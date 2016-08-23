@@ -41,7 +41,7 @@
 .about-info{}
 ```
 
-#### Usar flexbloxb
+#### Usar flexblox
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
