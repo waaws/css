@@ -85,11 +85,8 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 } 
 ```
 
-- usar clases ( .header{} )
-- 
-
 # Naming convention
 
 ####block__element--modifier
 
-Basado en http://getbem.com/naming/
+http://getbem.com/naming/
