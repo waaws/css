@@ -34,7 +34,7 @@
 .footer{}
 .banner{}
 .slider{}
-.product-thumnail{}
+.product-thumbnail{}
 .products-grid{}
 .product-detail{}
 .product-image-slider{}
